@@ -70,6 +70,25 @@ tribalfusion.*
 webtrends.*
 googletagservices.*
 [a-zA-Z0-9]{4}/$script.*
+*.a-msedge.net
+*.adnxs.com
+*.ads*.msads.net
+*.ads*.msn.com
+*.ams*.msecn.net
+*.atdmt.com
+*.dc-msedge.net
+*.glbdns2.microsoft.com
+*.location.live.net
+*.msedge.net
+*.rad.msn.com
+*.rads.msn.com
+*.services.social.microsoft.com
+*.telemetry.microsoft.com
+*.trafficmanager.net
+*.virtualearth.net
+*.vortex*.data.metron.live.com.nsatc.net
+*.vortex*.data.microsoft.com
+*.vortex.data.microsoft.com
 
 
 ## Time-based rules
