@@ -1,0 +1,7 @@
+cacerts.*.*
+*crl*.*.*
+digicert.com
+*ocsp*.*.*
+seal*.*.*
+securem*.*.*
+startssl.com
