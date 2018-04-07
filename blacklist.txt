@@ -26,11 +26,10 @@ stats.*
 tag.*
 telemetry.*
 tracker.*
-*.local
-eth0.me
+*.local.*
+*.eth0.me
 *.workgroup
 *sex*
-a1.yimg.*
 *.adbrite.*
 adclick.*
 adfarm.*
@@ -95,3 +94,5 @@ googletagservices.*
 
 # *.youtube.*  @time-to-sleep
 # facebook.com @work
+# reddit.com @work
+
