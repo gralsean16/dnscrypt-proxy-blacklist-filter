@@ -17,6 +17,7 @@
 ad.*
 ad.*.*.*
 ads.*
+*.ads.*
 ads[0-9]*
 *analytics*
 banner.*
