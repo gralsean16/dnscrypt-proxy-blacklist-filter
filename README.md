@@ -15,7 +15,7 @@ Project Goal
 Normal domain based filter lists are big in size, needs to maintained regularly and consuming a lot of memory and space. DNS based blocking with regular expression is better because you can block thousands of domains with only one single line.
 
 
-### Usage
+## Usage
 
 1) Open your `dnscrypt-proxy.toml` file there you find the black/whitelist categories.
 2) Go under "Pattern-based blocking (blacklists)", comment out `blacklist_file = 'blacklist.txt'`
