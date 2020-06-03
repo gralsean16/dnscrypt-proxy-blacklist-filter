@@ -1,16 +1,18 @@
 ### A basic filter list designed for the blacklist mechanism in [DNSCryp-Proxy v2](https://github.com/jedisct1/dnscrypt-proxy).
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/CKsTechNews)
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
-[![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
+![Twitter Follow](https://img.shields.io/twitter/follow/CKsTechNews?label=Follow%20CK%27s%20Tech%20News&style=social)
+[![Discord](https://img.shields.io/badge/Discord-Join%20CKs%20Technology%20Discord%20Server-orange)](https://discord.me/chef-koch)
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20CK's%20Tech%20News%20Telegram-blue)](https://t.me/CKsTechNews)
+[![license](https://img.shields.io/github/license/CHEF-KOCH/dnscrypt-proxy-blacklist-filter.svg)](https://github.com/CHEF-KOCH/dnscrypt-proxy-blacklist-filter/blob/master/license.txt)
+[![repo size](https://img.shields.io/github/repo-size/CHEF-KOCH/dnscrypt-proxy-blacklist-filter.svg)](https://github.com/CHEF-KOCH/dnscrypt-proxy-blacklist-filter)
 
 
 Project Goal
 ------------
 
-1. I like to provide a clean regular expression filter-list to avoid downloading heavy domain based filter lists. 
-2. The list should not only limited to ads, however finding a good regexp for e.g. malware domains is difficult and the challenge. Some legit page like Malwarebytes might also getting blocked if you use *.malware as filter. 
-3. Fix every reported issue and improve the list as much as possible. 
+1. I like to provide a clean regular expression filter-list to avoid downloading heavy domain based filter lists.
+2. The list should not only limited to ads, however finding a good regexp for e.g. malware domains is difficult and the challenge. Some legit page like Malwarebytes might also getting blocked if you use *.malware as filter.
+3. Fix every reported issue and improve the list as much as possible.
 
 Normal domain based filter lists are big in size, needs to maintained regularly and consuming a lot of memory and space. DNS based blocking with regular expression is better because you can block thousands of domains with only one single line.
 
