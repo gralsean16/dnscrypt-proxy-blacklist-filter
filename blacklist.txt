@@ -3,6 +3,12 @@
 #     Blacklist by CK     #
 ###########################
 
+# Additional checks & Info
+# https://adblockplus.org/en/redundancy_check
+# https://adblockplus.org/en/deregifier
+# https://adblockplus.org/en/faq_internal#filters
+# https://adblockplus.org/deregifier
+
 ###########################
 #      DNSCrypt Info      #
 ###########################
@@ -16,14 +22,17 @@
 ## ads[0-9]*     | matches "ads" followed by one or more digits
 ## ads*.example* | *, ? and [] can be used anywhere, but prefixes/suffixes are faster
 
-###########################
-#            Regex        #
-###########################
+########################################
+#                  Regex               #
+# Regex filters are in general slower! #
+########################################
+(^|\.)r[0-9]+---s[a-z]{1,3}\-{1,3}[a-z0-9]*-*[a-z0-9]*\.googlevideo\.com$
 (advertising\.com)$
 (advertserve\.com)$
 (doubleclick\.be)$
 (doubleclick\.net)$
 (dynamic\.dol\.ru)$
+(googlesyndication\.com)$
 ^(adserv\.)
 ^(adserve\.)
 ^(adserver1\.)
@@ -32,14 +41,14 @@
 ^(click\.)
 ^(clicks\.)
 ^(counter\.)
-ad[0-9]*
-ads.*
-ads[0-9]*
 
 
 ###########################
 #       DO NOT USE!       #
 ###########################
+# ad[0-9]*
+# ads.*
+# ads[0-9]*
 # ad.*
 # /\bads\b|2o7|a1\.yimg|ad(brite|click|farm|revolver|server|tech|vert)|at(dmt|wola)|banner|bizrate|blogads|bluestreak|burstnet|casalemedia|coremetrics|(double|fast)click|falkag|(feedster|right)media|googlesyndication|hitbox|httpads|imiclk|intellitxt|js\.overture|kanoodle|kontera|mediaplex|nextag|pointroll|qksrv|speedera|statcounter|tribalfusion|webtrends/
 
