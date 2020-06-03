@@ -19,10 +19,30 @@
 ###########################
 #            Regex        #
 ###########################
-ad.*
+(advertising\.com)$
+(advertserve\.com)$
+(doubleclick\.be)$
+(doubleclick\.net)$
+(dynamic\.dol\.ru)$
+^(adserv\.)
+^(adserve\.)
+^(adserver1\.)
+^(adserver2\.)
+^(adserver\.)
+^(click\.)
+^(clicks\.)
+^(counter\.)
 ad[0-9]*
 ads.*
 ads[0-9]*
+
+
+###########################
+#       DO NOT USE!       #
+###########################
+# ad.*
+# /\bads\b|2o7|a1\.yimg|ad(brite|click|farm|revolver|server|tech|vert)|at(dmt|wola)|banner|bizrate|blogads|bluestreak|burstnet|casalemedia|coremetrics|(double|fast)click|falkag|(feedster|right)media|googlesyndication|hitbox|httpads|imiclk|intellitxt|js\.overture|kanoodle|kontera|mediaplex|nextag|pointroll|qksrv|speedera|statcounter|tribalfusion|webtrends/
+
 
 ###########################
 #           Domains       #
