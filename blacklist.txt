@@ -15,12 +15,6 @@
 ## *sex*         | matches any name containing that substring
 ## ads[0-9]*     | matches "ads" followed by one or more digits
 ## ads*.example* | *, ? and [] can be used anywhere, but prefixes/suffixes are faster
-###########################
-#        Outdaated        #
-###########################
-# Converted from https://github.com/missdeer/blocklist/blob/master/toblock-without-shorturl-optimized.lst
-# https://github.com/missdeer/blocklist
-# Thanks to all contributors.
 
 ###########################
 #            Regex        #
@@ -31,7 +25,7 @@ ads.*
 ads[0-9]*
 
 ###########################
-#           Domains        #
+#           Domains       #
 ###########################
 0.start.bz
 000-000.cn
