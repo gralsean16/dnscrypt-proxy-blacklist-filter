@@ -641,7 +641,6 @@
 10a053584f01fcaeab1.com
 10b883b3d61d.com
 10bet.com
-10bet.s3.amazonaws.com
 10cms.com
 10eurosbonheur.org
 10fbb07a4b0.se
@@ -3227,7 +3226,6 @@
 66.8ox.cn
 66.zx1234.com
 6604.org
-6607129fd4ee493fbcb7f8f4d3e0f606.s3.amazonaws.com
 660a755deb8829fe.com
 660wap.cc
 6611tyc.com
@@ -4886,7 +4884,6 @@ a6.hujiang.com
 a6.taobanapp.com
 a615.ac-images.myspacecdn.com
 a62.info
-a6522.s3-website-us-east-1.amazonaws.com
 a69.g.akamai.net
 a692.com
 a69ee4fa50dc3.com
@@ -6006,7 +6003,6 @@ adagency1.com
 adagencyonline.biz
 adagencyonline.net
 adagencyonlineautomotiveadvertising.com
-adagiobanner.s3.amazonaws.com
 adagiof3.repubblica.it
 adagionet.com
 adagora.com
@@ -6906,7 +6902,6 @@ admarkt.marktplaats.nl
 admarsx.com
 admartzone.com
 admarvel.com
-admarvel.s3.amazonaws.com
 admaster.com.cn
 admaster.de
 admaster.mobi
@@ -9179,10 +9174,8 @@ adzbaba.com
 adzbazar.com
 adzchoice.com
 adzerg.com
-adzerk-www.s3.amazonaws.com
 adzerk.com
 adzerk.net
-adzerk.s3.amazonaws.com
 adzerver.com
 adzhits.com
 adzhub.com
@@ -9365,7 +9358,6 @@ afficent.com
 affidate.com
 affifix.com
 affil.io
-affilate-img-affasi.s3.amazonaws.com
 affilates.doktordick.com
 affilbox.cz
 affili.net
@@ -9594,7 +9586,6 @@ affiliation.rueducommerce.fr
 affiliation.sitedejeux.com
 affiliation.sostariffe.it
 affiliation.yaskifo.com
-affiliationjs.s3.amazonaws.com
 affiliationpartner.it
 affiliations.igg.biz
 affiliationv4.porn.fr
@@ -10201,7 +10192,6 @@ airportsys.com
 airporttaxiservicesandiego.com
 airpr.com
 airpush.com
-airpushmarketing.s3.amazonaws.com
 airsoft10.com
 airsw.com
 airtan.com
@@ -11335,45 +11325,11 @@ amazon-adsystem.amazon.com
 amazon-adsystem.com
 amazon-cornerstone.com
 amazon-deineeinkaufswelt.com
-amazon-hotline.com
-amazon-prirne.com
-amazon-seo-service.com
-amazon.co.uk.security-check.ga
-amazon.de.0-vwixn-amazon-qu0y1.ru
-amazon.de.16-konto-oea-amazon-8mk.ru
-amazon.de.24-konto-8nm-amazon-zum.ru
-amazon.de.5f-konto-yya-amazon-7mv.ru
-amazon.de.8p-amazon-f8cuf.ru
-amazon.de.a-vpuvk-amazon-nlxma.ru
-amazon.de.bedanken14.com
-amazon.de.bedanken2018.net
-amazon.de.dc-amazon-nm01c.ru
-amazon.de.fast-click05.com
-amazon.de.hq-amazon-js0or.ru
-amazon.de.hx-konto-hjg-amazon-rhc.ru
-amazon.de.iw-konto-iwg-amazon-1p8.ru
-amazon.de.je-konto-0qf-amazon-ghw.ru
-amazon.de.jt-amazon-wx30k.ru
-amazon.de.my-amapay.com
-amazon.de.myamapay.com
-amazon.de.neue-agbs.com
-amazon.de.neueagb.com
-amazon.de.newssend0.com
-amazon.de.p2-amazon-cpovm.ru
-amazon.de.r-vh1gj-amazon-q1wnc.ru
-amazon.de.session-id-click.com
-amazon.de.v3-amazon-5gtv9.ru
-amazon.de.w7-konto-jt0-amazon-gum.ru
-amazon.de.xc-amazon-s6ref.ru
-amazon.de.xy-konto-j9c-amazon-wqv.ru
-amazon.de.ya-konto-k1h-amazon-459.ru
-amazon.de.zn-amazon-8h7lu.ru
 amazon.secure-center.org
 amazon.update.payment.billing.restore.com.gameoflovez.info
 amazon.webdirect.cf
 amazon.wii-info.fr
 amazonamzo.temp.swtest.ru
-amazonaws.com
 amazongiftcardgenerator.org
 amazongiftcardgiveaway.com
 amazongiftcardscodes.com
@@ -11602,7 +11558,6 @@ amradmin.5173.com
 amricanfidelity.com
 amritaraichand.com
 amronail.com
-ams-ads-cornerstone-creatives.s3.amazonaws.com
 ams.fx678.com
 ams.shangdu.com
 ams.toxity.biz
@@ -13733,8 +13688,6 @@ arabic-offenses.000webhostapp.com
 arabicfoodexpress.com
 arabicsexphoto.yourfreesites.com
 arabictopics.com
-arabks.com
-arabmistress.s3.amazonaws.com
 arabsanfrancisco.com
 arabtechmessenger.net
 aracea.com
@@ -14444,7 +14397,6 @@ asset-2.tenderapp.com
 asset.ind.in
 asset.wetransfer.net.debrawhitingfoundation.org
 assetize.com
-assets-hellobar-com.s3.amazonaws.com
 assets-polarb-com.a.ssl.fastly.net
 assets.2343sdxs.com
 assets.booztx.com
@@ -16242,7 +16194,6 @@ banner-exchange-24.de
 banner-exchange.nl
 banner-farm.com
 banner-img.haber7.com
-banner-madai-com.s3.amazonaws.com
 banner-mania.com
 banner-net.com
 banner-rotation.com
@@ -16682,7 +16633,6 @@ bannerspace.com
 bannersponsor.com
 bannerswap.com
 bannerswap.net
-bannersweb.s3.amazonaws.com
 bannersworld.com
 bannersxchange.com
 bannert.ru
@@ -18440,7 +18390,6 @@ biorelation.com
 bioresonantiehaarlem.eu
 biostevia.co
 biotalerz.pl
-biowebb-data.s3.amazonaws.com
 bioworlds.top
 bip-bip-blip.com
 biphome.spray.se
@@ -18909,7 +18858,6 @@ blafutz.ml
 blagovest-med.ru
 blailays.pro
 blake2s.com
-blamads-assets.s3.amazonaws.com
 blamads.com
 blamcity.com
 blammi.com
@@ -19461,7 +19409,6 @@ bnz.co.nz.ka2ziybqsizp6s2.e-lecta.net
 bnzona-websegura.com
 bnzonasegura.bnenlinea.net
 bo-nichons.com
-bo-videos.s3.amazonaws.com
 bo.1234vv.com
 bo.9bobo.com
 bo.facesbet.com
@@ -20299,7 +20246,6 @@ brmrwnopuowq.bid
 brndrm.com
 bro-freelite.ru
 bro.flyme.cn
-bro1.s3.amazonaws.com
 broadband2compare.com
 broadboundary.com
 broadcast.piximedia.fr
@@ -20543,7 +20489,6 @@ btrcker.com
 btrll.com
 btrll.net
 btrll.org
-btrpreroll.s3.amazonaws.com
 btsa.cn.com
 btserve.com
 btsimocheozy.bid
@@ -20618,7 +20563,6 @@ buerse.cl
 bufetout.ru
 buffalogoesout.com
 buffer-control.com
-buffer-media-uploads.s3.amazonaws.com
 bufferapp.com
 bufore.com
 bugaga.tut.by
@@ -21469,7 +21413,6 @@ cadisjoyas.cl
 cadjetbums.ml
 cadmanipal.com
 cado-sa.com
-cadreon.s3.amazonaws.com
 cadrestaff.net
 cads.ch
 cadsvc.com
@@ -21644,7 +21587,6 @@ camolist.info
 camoret.in.net
 camorg.net
 campagne.zichtbaaronline.nl
-campaign-tapad.s3.amazonaws.com
 campaign.bharatmatrimony.com
 campaign.firmendeutschland.com
 campaign.nmobs.com
@@ -22442,8 +22384,6 @@ ccjbox.ivyro.net
 ccknifegiveaway.com
 ccl.su
 ccleaner.fr
-ccmbg.com
-ccmd2.com
 ccmdcampaigns.com
 ccmdemail.com
 ccmdgg.com
@@ -22481,7 +22421,6 @@ ccyi.r.game2.com.cn
 ccyljx.com
 cd-ads.com
 cd-best.cn
-cd-ladsp-com.s3.amazonaws.com
 cd.bendibao.com
 cd23946.tmweb.ru
 cd490573c64f3f.com
@@ -22635,7 +22574,6 @@ cdn.iclicash.com
 cdn.img.kachapt.cn
 cdn.img.liuxingyul.cn
 cdn.insta.playbryte.com
-cdn.installationsafe.net.s3.amazonaws.com
 cdn.ip.inpwrd.com
 cdn.iqcontentplatform.de
 cdn.italiatoday.info
@@ -22802,7 +22740,6 @@ cdnonead-onead.cdn.hinet.net
 cdnoww.com
 cdnpps.us
 cdnproviders.net
-cdnpuaf.s3.amazonaws.com
 cdnquality.com
 cdnrl.com
 cdns.ws
@@ -22927,14 +22864,11 @@ cdsusa.veinteractive.com
 cdtojdrhoc.bid
 cdtqlw.com
 cdu4.cduniverse.com
-cdx-us.s3.amazonaws.com
 cdxyb.cn
 cdyqc.com
 cdyygbzihdh.com
 cdzdf.com
 ce-services.co.uk
-ce2-dev-trk.s3.amazonaws.com
-ce2-dev.s3.amazonaws.com
 ce42d83343069a37.com
 ce444.com
 ce62e0d222bc5aca.com
@@ -23459,11 +23393,9 @@ charmflirt.com
 charming-angels.net
 charmlive.com
 charmour.club
-charmsavings-production.s3.amazonaws.com
 charmstroy.info
 chart.advinion.com
 chart.dk
-chartaca.com.s3.amazonaws.com
 chartbeat.com
 chartbeat.download.akamai.com
 chartbeat.net
@@ -24921,7 +24853,6 @@ click.r.dangdang.com
 click.rateit.com
 click.revsharecash.com
 click.rssfwd.com
-click.s3.amazonaws.com
 click.saomaw.com
 click.scour.com
 click.searchnation.net
@@ -25471,7 +25402,6 @@ cloudcreations.in
 cloudcrown.com
 cloudflane.com
 cloudflare.hashfor.cash
-cloudfront-labs.amazonaws.com
 cloudfrontage.com
 cloudhostbanner.com
 cloudiiv.com
@@ -25564,7 +25494,6 @@ clusterconsulting.com.cn
 clusteredcloud.com
 clusteredcloud.net
 clustrmaps.com
-clutchmag.s3.amazonaws.com
 clvk.viki.io
 clx.ru
 clxakmsyjlryz.bid
@@ -26369,7 +26298,6 @@ com-verifyaccountupdateappstore.info
 com-vertivysigninout.net
 com-wkejf32ljd23409system.net
 com.com
-com.djinnworks.sdm.s3.amazonaws.com
 com.econa.com
 com.kino.to
 com.lauritaexcavating.com
@@ -27017,7 +26945,6 @@ conversionruler.com
 conversionsbox.com
 conversiontrac.com
 convertglobal.com
-convertglobal.s3.amazonaws.com
 convertro.com
 convertwordtoexcel.com
 conveyorbeltsystemir.com
@@ -31137,7 +31064,6 @@ demand.supply
 demandbase.com
 demandize.org
 demandlocker.com
-demandmedia.s3.amazonaws.com
 demandware.edgesuite.net
 demangler.ea.com
 demarcapropia.com
@@ -31391,7 +31317,6 @@ desktopsearch.net
 desktopsmiley.com
 deskuadrerock.es
 deskwizz.com
-deskwww.s3.amazonaws.com
 desmnore.com
 desmoidqqzopi.download
 desmonali.id
@@ -31523,7 +31448,6 @@ devirginize.com
 devirginized.com
 devis-avis.com
 devisdirect.com
-devisprox-media.s3-website-eu-west-1.amazonaws.com
 devitravelsmys.com
 devki2.xmiler.com
 devki21.ru
@@ -31899,7 +31823,6 @@ digisex.nl
 digisexxx.com
 digistats.westjet.com
 digisystemsrl.com
-digital-ads.s3.amazonaws.com
 digital-control.com.cn
 digital-data-factory.com
 digital-datafactory.com
@@ -33467,7 +33390,6 @@ downloads-mobile.com
 downloads-whatsapp.com
 downloads.mytvandmovies.com
 downloads.rabio.com
-downloads.redusers.com.s3.amazonaws.com
 downloads.trymedia.com
 downloads.updatersoft.com
 downloadsafe.org
@@ -34033,7 +33955,6 @@ duaenranglae.com
 duaishingy.info
 dual-purpose-cane.000webhostapp.com
 dualmarket.info
-dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com
 dualstack.cloudinary.com
 dualvaccine.com
 duanbatdongsanvincity.com
@@ -34955,11 +34876,6 @@ ec-eo.com
 ec-track.com
 ec.yimg.com
 ec01c392919812c4f818-79afe539d963810002081e6e2a51e67e.ssl.cf2.rackcdn.com
-ec2-13-58-215-234.us-east-2.compute.amazonaws.com
-ec2-23-23-242-44.compute-1.amazonaws.com
-ec2-54-171-97-32.eu-west-1.compute.amazonaws.com
-ec2-54-225-149-4.compute-1.amazonaws.com
-ec2-54-235-183-132.compute-1.amazonaws.com
 ecaatasehir.com
 ecampas.com
 ecapsul.com
@@ -35047,7 +34963,6 @@ ecomediasmusicales.com.ar
 ecommerce-seo.com
 ecommercepartners.com.au
 ecommercesalessystem.com
-ecommstats.s3.amazonaws.com
 ecomp3.ru
 econda-monitor.de
 econda.web.de
@@ -36316,7 +36231,6 @@ entomologist.com
 entraco.sn
 entrantsoftware.com
 entrecard.com
-entrecard.s3.amazonaws.com
 entrepreneur.com
 entrepreneursbootcampreview.com
 entrevue-discrete.com
@@ -36433,7 +36347,6 @@ epomservices.com
 epool.io
 epoq.de
 epotjriebeckite.review
-epowernetworktrackerimages.s3.amazonaws.com
 eppilxqwyqdhmpdsn.pw
 epraja1.com.br
 eprize.com
@@ -37417,7 +37330,6 @@ evolutionengrg.com
 evolvemediallc.com
 evolvenation.com
 evolveplatform.net
-evs-hosted-14facd241e1c08.s3.amazonaws.com
 evt.adrcntr.com
 evt.tiancity.com
 evtfjieqjhvf.com
@@ -37589,7 +37501,6 @@ exitopolska.com
 exitostudio.com.br
 exitrecycle.com
 exits.adultpaymaster.com
-exitsplash.s3.amazonaws.com
 exjthrzliajfd.com
 exmarketplace.com
 exmasters.com
@@ -39425,8 +39336,6 @@ fikyzmbuhql.bid
 fil.ru
 filadmir.site
 filament-stats.herokuapp.com
-filamentapp-assets.s3.amazonaws.com
-filamentapp.s3.amazonaws.com
 file-cdn.beeketing.com
 file-dropbox.info
 file-save.com
@@ -40608,7 +40517,6 @@ forums.netcodepool.org
 forums.thatchickensite.com
 forumsdediscussion.com
 forumtoolbar.com
-forumwarz.s3.amazonaws.com
 forumwns.home.amu.edu.pl
 forumx.net
 forusoftware.com
@@ -42969,7 +42877,6 @@ gatesleeds.com
 gateway.fortunelounge.com
 gatewaybible.com
 gatewayhimalaya.com
-gateways.s3.amazonaws.com
 gatewaytracker.com
 gatgirl.com
 gather.corp.workgroup-appconnect.com
@@ -43719,7 +43626,6 @@ getamzcodes.men
 getaptd.ru
 getapussy.com
 getb.7ya.ru
-getbarometer.s3.amazonaws.com
 getbonus.info
 getbridge.stream
 getbrowser.org
@@ -43868,7 +43774,6 @@ getsentry.org
 getsexquick.com
 getshar.es
 getsidecar.com
-getsidecar.s3.amazonaws.com
 getsidekick.com
 getsitecontrol.com
 getsmallbusinessloan.net
@@ -43925,7 +43830,6 @@ gezkddgdbliip.bid
 gf.static-1.gambling-media.ca
 gf108.com
 gf8899.com
-gfaf-banners.s3.amazonaws.com
 gfaq.ru
 gfbnr.com
 gfcdc.com
@@ -45881,7 +45785,6 @@ gtop100.com
 gtopstats.com
 gtp.dejanews.com
 gtradersoft.com
-gtrk.s3.amazonaws.com
 gts-ads.twistbox.com
 gtsads.com
 gtservice-square.com
@@ -47066,7 +46969,6 @@ haydayhack.net
 haydayhacked.com
 haydayhacks.org
 hayghe12.byethost7.com
-haymarket-whistleout.s3.amazonaws.com
 hayorbolahtour.com
 hayqua123.byethost7.com
 haz.moarclicks.com
@@ -47077,7 +46979,6 @@ hazslm.com
 hazteveg.pw
 hazydaze.com
 hb-247.com
-hb-assets.s3.amazonaws.com
 hb-redlink-com-ar.servicesar.com
 hb.afl.rakuten.co.jp
 hb4x4.com
@@ -47676,8 +47577,6 @@ hfyqolbetdprw.bid
 hfyxdl.com
 hfzikiht.com
 hg-bikes.de
-hg-io-14.s3.amazonaws.com
-hg-io-21.s3.amazonaws.com
 hg.travelocity.com.edgesuite.net
 hg00288.com
 hg1088.com
@@ -48424,7 +48323,6 @@ holyw.ddns.me.uk
 holywebcams.com
 holzwurmschhulze.myjino.ru
 homa-forex.com.au
-homad-global-configs-eu-fra.schneevonmorgen.com.s3.amazonaws.com
 homad-global-configs.schneevonmorgen.com
 homannundleweke.de
 home-edu.cn
@@ -49165,7 +49063,6 @@ hryxk.com
 hs-analytics.com
 hs-analytics.net
 hs-appstatic.com
-hs-hq-65.s3.amazonaws.com
 hs-sites.com
 hs-static.com
 hs.qhupdate.com
@@ -49278,7 +49175,6 @@ html.wnbc.com
 html.xcar.com.cn
 html.yuntzs.com
 html5ad.com
-html5adkit.plusmo.s3.amazonaws.com
 html5nano-visor.biz
 html5nano-visor.com
 html5nano-visor.info
@@ -49294,7 +49190,6 @@ html5nanovisor.net
 html5nanovisor.org
 html5nanovisor.us
 html5zombo.com
-htmlads.s3.amazonaws.com
 htmlcorner.com
 htmlcounter.com
 htmlhubing.xyz
@@ -49897,7 +49792,6 @@ iaatbgm.cn.com
 iabargentina.com.ar
 iac.com
 iaceckwe.com
-iacpromotion.s3.amazonaws.com
 iad.e.360.cn
 iadc.qwapi.com
 iadctest.qwapi.com
@@ -49945,7 +49839,6 @@ iatwyqgvpq.com
 iauvabogtws.bid
 iavtuhrcy.com
 iaxxhqwaig.com
-ib-cdn.s3.amazonaws.com
 ib-ibi.com
 ib-nab.com.au.verify-inett.ga
 ib.absa.co.za.absa-online.login.acc-problem-info.world
@@ -51245,7 +51138,6 @@ imjbyqdy.eu
 iml1.nl
 imlive.com
 immanalytics.com
-immassets.s3.amazonaws.com
 immediateresponseforcomputer.com
 immeria.kupivoice.ru
 immgnzenbixuzd.bid
@@ -51888,7 +51780,6 @@ inneedbd.com
 inner-active.com
 inner-active.mobi
 inner.newinform.com
-inneractive-assets.s3.amazonaws.com
 innerads.com
 innereasa.ga
 innergywear.com
@@ -51924,9 +51815,6 @@ inovikova.demos.su
 inpagevideo.nl
 inpath.info
 inporno.biz
-inpref.s3-external-3.amazonaws.com
-inpref.s3.amazonaws.com
-inq.com
 inquire.com
 inquiries.redhat.com
 inquiry.shop.xerox.com
@@ -52199,7 +52087,6 @@ interace-transfer.panku.in
 interacrefund.club
 interact-refund11.com
 interaction.bayimob.com
-interactive-assets.s3.amazonaws.com
 interactive-circle.jp
 interactive-it4m.jp
 interactive.forthnet.gr
@@ -52838,7 +52725,6 @@ isnotuioppol.com
 iso31000.site
 iso31000.xyz
 isobarevdwtaol.download
-isocket-creatives.s3.amazonaws.com
 isoclinicvzlcj.download
 isoftmarketing.com
 isohits.com
@@ -55730,7 +55616,6 @@ kbipxydhakpdwj.bid
 kbluliqpjq.bid
 kbmindia.com
 kbnbusinesssolutions.com
-kbnetworkz.s3.amazonaws.com
 kbnhoiax.com
 kbodfwsbgfmoneuoj.com
 kbphotostudio.com
@@ -56379,7 +56264,6 @@ kk4d8g.earth.northerndishedends.co.uk
 kk7879.com
 kk9677.com
 kka.sztjdz.com.cn
-kkastatic.s3.amazonaws.com
 kkawxvjeluwc.com
 kkbyrd.000webhostapp.com
 kkc-cases.info
@@ -56827,7 +56711,6 @@ kr123.com
 kr3vinsx.com
 kraftinwestycje.pl
 krajiv.com
-kraken-measurements.s3.amazonaws.com
 krakeshlaja.com
 kralreklam.com
 kramidos.net
@@ -57847,7 +57730,6 @@ leadclick.com
 leadcoins.network
 leadcola.com
 leadcrunch.com
-leaddyno-client-images.s3.amazonaws.com
 leadenhancer.com
 leaderaffiliation.com
 leaderpub.fr
@@ -58984,7 +58866,6 @@ livecams.nl
 livecamstreams.com
 livecamstrippers.com
 livecannerydavis.com
-livechat.s3.amazonaws.com
 livechatpartner.com
 livecheat.com
 livecheck.theperfectsystoupdating.date
@@ -59004,8 +58885,6 @@ livedownloadnet.pl
 liveenterprises.co.in
 livefixer.com
 livefootball.ro
-livefucking.nu
-livefyre-avatar.s3.amazonaws.com
 livefyre.com
 livegames.ru
 livegayporn.net
@@ -59355,7 +59234,6 @@ lnx.poggitazzi.com
 lo2.me
 loa-traffic.com
 load.joymeng.com
-load.s3.amazonaws.com
 loadedcash.com
 loadercdn.com
 loadglobal.com
@@ -60005,7 +59883,6 @@ lovebabysz.com
 lovebeautifullife.000webhostapp.com
 lovecam.com.br
 loveclaw.com
-loved-by.s3.amazonaws.com
 lovedate.ch
 lovedoll.tv
 lovefacebook.comli.com
@@ -60226,8 +60103,6 @@ lt.donglink.cn
 lt3456.com
 ltaporjivped.com
 ltassrv.com
-ltassrv.com.s3.amazonaws.com
-ltau-conexions.space
 ltau-regularizacao.unicloud.pl
 ltau-unibanco.j.dnr.kz
 ltauatualiza30hrs.com
@@ -61228,8 +61103,6 @@ magnetisemedia.com
 magnetmail.net
 magnetmail1.net
 magnetpress.sk
-magnets4energy.com
-magnify360-cdn.s3.amazonaws.com
 magnify360.com
 magnitonline.ru
 magnoliathomas799.000webhostapp.com
@@ -61640,7 +61513,6 @@ mantenoa.com.ar
 mantep.in
 manthanorganics.com
 manticore.demos.su
-mantis-wp.s3.amazonaws.com
 mantisadnetwork.com
 mantrsa.000webhostapp.com
 mantto-offshore.us
@@ -62022,7 +61894,6 @@ match.redirecthere.net
 match.seesaa.jp
 match81photos.hol.es
 match960photos.890m.com
-matchbin-assets.s3.amazonaws.com
 matchbin.com
 matchcows.com
 matchcraft.com
@@ -62746,7 +62617,6 @@ mediaspub.lequipe.fr
 mediast.eu
 mediasuite.multicastmedia.com
 mediasynergy.com
-mediatakeout.s3.amazonaws.com
 mediatarget.com
 mediate.magicbutton.net
 mediatex.in
@@ -63814,7 +63684,6 @@ microsoft-supportus.xyz
 microsoft-update.name
 microsoft.com.org
 microsoft.shopgoat.co.in
-microsoft.track11.s3.amazonaws.com
 microsoft365-secured-documentfile.000webhostapp.com
 microsoft81.webnode.com
 microsoftaffiliates.net
@@ -74000,7 +73869,6 @@ mldsiekmhy.com
 mldtdbsoko.myfw.us
 mlera.com
 mlfvoqwjvbzy.bid
-mlg-ad-ops.s3.amazonaws.com
 mlhuillier1.cf
 mlinktracker.com
 mljetherwallet.com
@@ -74148,7 +74016,6 @@ mmtrkdb.com
 mmtrkmc.com
 mmtrkpy.com
 mmtro.com
-mmvid.s3.amazonaws.com
 mmxingying.com
 mn.mn.co.cu
 mn3.ru
@@ -74482,7 +74349,6 @@ mobvid.mobi
 moby-aa.ru
 mobyapps.net
 mobyetrafmsmt.com
-mobypicture.s3.amazonaws.com
 mobyt.com
 mobytrip.bid
 mobytrks.com
@@ -74658,7 +74524,6 @@ mondialisatincroissances.it
 monditomasks.co
 mondo-animali.it
 mondo-porno.nu
-mondoads.s3.amazonaws.com
 mondoecommerce.it
 mondojuventus.it
 mondsq.cn
@@ -75667,7 +75532,6 @@ mvads.kugou.com
 mvakbserenates.review
 mvav.com
 mvbdzg.cn.com
-mvchallenges.s3-website-eu-west-1.amazonaws.com
 mvchemistry.com
 mvchterwaiict.com
 mvchterwaiiet.com
@@ -75836,7 +75700,6 @@ myads.com
 myads.it
 myads.newads.com
 myads.ru
-myadserve.s3-website-us-east-1.amazonaws.com
 myadstats.com
 myadstracking.xyz
 myadultdiary.com
@@ -77102,7 +76965,6 @@ nbzq.net
 nc004x.corp.youdao.com
 nc045x.corp.youdao.com
 ncachear.com
-ncads.s3.amazonaws.com
 ncaudienceexchange.com
 ncbcorporation.com
 ncbklawyb.bid
@@ -77769,7 +77631,6 @@ news-report24.com
 news-today.pw
 news-top-rated.com
 news-update-account.com
-news-whistleout.s3.amazonaws.com
 news.51y5.net
 news.58.com
 news.creapia.com
@@ -78687,7 +78548,6 @@ notxcusestody.xyz
 nourteenthp.angelcities.com
 noushad.in
 nouusaniebhhfv.bid
-nouvelobs.s3-website-eu-west-1.amazonaws.com
 nouvurtqlz.bid
 nova.dice.net
 novadune.com
@@ -79128,7 +78988,6 @@ nwyjcvbazvltas.bid
 nwzawdquu.bid
 nwzexkxx.com
 nx.frosmo.com
-nxa-ls.s3.amazonaws.com
 nxads.internet.com
 nxcms.b0.upaiyun.com
 nxcxithvcoeh.com
@@ -81003,7 +80862,6 @@ optimizeadvert.biz
 optimized-by.4wnetwork.com
 optimizely.appspot.com
 optimizely.com
-optimizely.s3.amazonaws.com
 optimizesocial.com
 optimost.com
 optimum-hits.com
@@ -81800,7 +81658,6 @@ p5genexs.com
 p6.dnvod.tv
 p757.com
 p78lld1s.top
-p790p8a.s3.amazonaws.com
 p7p5.com
 p7uln5towbuozltok5nj.maherstcottage.com.au
 p800.ericson.synchronise.sms13.de
@@ -83595,7 +83452,6 @@ phalata.info
 phallosdei.com
 phaltzgraf.com
 pham.duchieu.de
-phan-js.s3.amazonaws.com
 phanminhhuy.com
 phaphoidharamsala.com
 pharmacy-canada.forsearch.net
@@ -86498,9 +86354,7 @@ proco.no
 procrafts.ru
 procya.cf
 prod-abc.ro
-prod-analytics-beacon-1356267358.eu-west-1.elb.amazonaws.com
 prod-services.interactiveone.com
-prod-skybet.s3.amazonaws.com
 prod.ipav.xyz
 prod.spotify.map.fastlylb.net
 prod.telemetry.ros.rockstargames.com
@@ -86765,7 +86619,6 @@ promote.pair.com
 promote.pointburst.com
 promoted.com
 promotelovemovement.com
-promotion-2-0-2098577263.us-east-1.elb.amazonaws.com
 promotion-campaigns.com
 promotion-eth.info
 promotion-international.com
@@ -87037,7 +86890,6 @@ proxytable.com
 proxythemes.net
 proxyus.gq
 proyectoindigo.pe
-prp11ahda.s3.amazonaws.com
 prpkhpjxghhn.com
 prpops.com
 prpsolutions.in
@@ -87874,8 +87726,6 @@ pyweidu.com
 pyxqbzdwemuteness.review
 pyysfwak.com
 pyzkk.com
-pz-gagnants.s3.amazonaws.com
-pz.lyklw.com
 pzcdn.com
 pzest.com
 pzfittkdqrrsa.com
@@ -90923,7 +90773,6 @@ ricead.com
 ricebistrochicago.com
 ricetaekwondo.com
 ricettefacili.net
-rich-agent.s3.amazonaws.com
 rich-bets.one
 rich.kuwo.cn
 richard-group.com
@@ -92343,8 +92192,6 @@ s2r.tut.by
 s2rteam.com
 s2sterra.com
 s2trade.mtxcapital.com
-s3-directional-w.geo.amazonaws.com
-s3-tracking.synthasite.net.s3.amazonaws.com
 s3.0594003.com
 s3.ongsono.com
 s3.pfp.sina.net
@@ -92928,8 +92775,6 @@ samvaulter.com
 samvinva.info
 samwebstudio.co.in
 samwooind.co.kr
-sana-ir.com
-sana.newsinc.com.s3.amazonaws.com
 sanalreklam.com
 sanatorioesperanza.com.ar
 sanatorrii.ru
@@ -93807,7 +93652,6 @@ sdr.totango.com
 sdreif.com
 sdrescher.net
 sdry.com
-sdsbucket.s3.amazonaws.com
 sdsibgsv.beckmenlawfirm.net
 sdsjweb.com
 sdsmorag.pl
@@ -94060,7 +93904,6 @@ secretlanguage.co
 secretlittle.com
 secretlolita.com
 secretmedia.com
-secretmedia.s3.amazonaws.com
 secretosarevelar.com
 secrets40.com
 secretscook.ru
@@ -94363,8 +94206,6 @@ security-sy42.stream
 security-user-verify.tk
 security.browser.miui.com
 security.fblaster.com
-security.threats122.s3.amazonaws.com
-security.usaa.com.inet.wc.security.center.0wa.ref.pub.auth.nav-sec.themeatstore.in
 security.weibo.cn
 security2017check.cf
 security2stop2.usa.cc
@@ -95040,7 +94881,6 @@ settings-win.data.microsoft.com
 settings.data.microsoft.com
 settings.luckyorange.net
 settings4less.life
-settingsbucket.s3.amazonaws.com
 settlecruise.org
 setup-32.co.in
 setupandcrack.com
@@ -96822,7 +96662,6 @@ simp3.eu
 simpatiaose.com
 simpatie.ro
 simpio.com
-simple-cdn.s3.amazonaws.com
 simple-image.com.ua
 simpleads.net
 simpleclickoffers.com
@@ -97367,7 +97206,6 @@ slanovskiy.ua
 slanted.excelonlinereader.services
 slashtag.link
 slatchcare.com
-slate-ad-scripts.s3.amazonaws.com
 slatercorp.co.za
 slavecomics.com
 slavetown.com
@@ -97421,7 +97259,6 @@ slickwit.com
 slide.howardnapper.co.uk
 slides.discovery.tom.com
 slidesearch.net
-slideshare-audio.s3.amazonaws.com
 slightlyoffcenter.net
 slikslik.com
 slimcdn.com
@@ -97514,7 +97351,6 @@ sm3na.com
 sm4ll.in
 sm79.com
 sm888.com
-smaato-ads.s3.amazonaws.com
 smaato.asia
 smaato.com
 smaato.hamburg
@@ -97650,7 +97486,6 @@ smbb.ws
 smbcass.com
 smbcebz.com
 smbcnsn.com
-smblock.s3.amazonaws.com
 smct.co
 smdrsdcollegepathankot.com
 smeare.com
@@ -98774,7 +98609,6 @@ sprincipal.com
 spring-tns.net
 springboardplatform.com
 springboardvideo.com
-springclick-ads.s3.amazonaws.com
 springclick.com
 springfieldarms.com
 springmetrics.com
@@ -98813,7 +98647,6 @@ spycash.biz
 spyfu.com
 spyglassresources.com
 spyhole.com
-spyhunter-download.s3.amazonaws.com
 spykemedia.go2cloud.org
 spykemediatrack.co
 spykemediatrack.com
@@ -99196,7 +99029,6 @@ stakeunited.com
 stal-rulon.ru
 staldecor.pl
 stalkchalk.co.uk
-stalkerxx.s3.amazonaws.com
 stallionmedia.net
 stalliontrailblazer.co.zw
 stalluva.pro
@@ -99467,7 +99299,6 @@ static-72-26-207-6.assets.qhosted.com
 static-ads.akamaized.net
 static-cdn.anetwork.ir
 static-cnt.bid
-static-shareaholic.s3.amazonaws.com
 static-ssp.yidianzixun.com
 static-www.ec.popcap.com
 static.1j1j.com
@@ -99540,7 +99371,6 @@ static.mailchimp.com
 static.matchnet.com
 static.mb89-live.com
 static.mct01.com
-static.media.magnify.net.s3.amazonaws.com
 static.mirarsearch.com
 static.mntzm.com
 static.moonbasa.com
@@ -100397,7 +100227,6 @@ strictlycleaningrestoration.com
 strictlyvodka.com
 strigkaomsk.ru
 strikead.com
-strikeadcdn.s3.amazonaws.com
 strikeiron.com
 stringengines.com
 stringroadway.com
@@ -100507,7 +100336,6 @@ studiowilliancarvalho.com.br
 study-by.com
 studyguide.org
 stuff-about-money.com
-stuff-nzwhistleout.s3.amazonaws.com
 stuff.202m.com
 stun.kuaibo.com
 stun.xpanama.net
@@ -101543,7 +101371,6 @@ synanthrose.com
 sync.1dmp.io
 sync.audsp.com
 sync.bfmio.com
-sync.cmedia.s3.amazonaws.com
 sync.credebat.com
 sync.darikweb.com
 sync.mookie1.cn
@@ -104027,7 +103854,6 @@ tiosmqhuuzb.bid
 tioweuuukcedarwood.review
 tipard.com
 tipic.de
-tipipub.s3.amazonaws.com
 tippitoppington.me
 tips.logger.baofeng.com
 tips.passport.pptv.com
@@ -105055,10 +104881,6 @@ tr-ebireysell-halbank.com
 tr-gdz.ru
 tr-halka-ozel-firsatlar.com
 tr-qnbfinansbank-enpara.com
-tr-sa-79.s3.amazonaws.com
-tr-sa-80.s3.amazonaws.com
-tr-sa-81.s3.amazonaws.com
-tr-sa-85.s3.amazonaws.com
 tr-subesi-bireysel-teb.com
 tr-ziraat.com
 tr-ziraat155yilsubesi.com
@@ -106675,8 +106497,6 @@ ttsnzvisa.co
 ttsq.fr
 ttt.fwq101.tk
 tttfaero.com
-ttv-backgroundart.s3.amazonaws.com
-ttv-boxart.s3.amazonaws.com
 ttvurdu.com
 ttwitter.com
 ttxm.co.uk
@@ -107030,12 +106850,10 @@ twitstat.com
 twitstat.us
 twittad.com
 twittefollowers.com
-twitter-badges.s3.amazonaws.com
 twitter.cm
 twittercounter.com
 twitterforweb.com
 twittericon.com
-twittermoms.s3.amazonaws.com
 twittermysite.com
 twitterzs.com
 twitthis.com
@@ -107354,8 +107172,6 @@ ubfiles.com
 ubiqpool.io
 ubiquitv.com
 ubiquitv.net
-ubisoft-orbit-savegames.s3.amazonaws.com
-ubisoft-orbit.s3.amazonaws.com
 ubktdzjnjkpon.com
 ublaze.ru
 ubliwesgzq.bid
@@ -109394,8 +109210,6 @@ vbutlvkmesially.review
 vbvqbnwyurqem.com
 vbvserviios.com
 vc-business.com
-vc-xd-14.s3.amazonaws.com
-vc-xd-19.s3.amazonaws.com
 vc.ameba.jp
 vc.qbao.com
 vc5xu3kmepes87a1jaos.maherstcottage.com.au
@@ -109936,7 +109750,6 @@ vibrantmedia.com
 vibranx.com
 vicbiznetworkinc.com
 vice-ads-cdn.vice.com
-vice-ads.s3.amazonaws.com
 vicembinayikimkirim.com
 viceschool.ca
 vichc.com
@@ -110089,7 +109902,6 @@ videosesso.biz
 videosevangelicos.com
 videosexe.biz
 videosexperts.com
-videosfr.s3.amazonaws.com
 videosfuck.com
 videosgay.tv
 videoshop.dk
@@ -110168,7 +109980,6 @@ viewclc.com
 viewdocs.000webhostapp.com
 viewdocument.comxa.com
 viewerfb.glt.pl
-viewerstats.docstoc.com.s3.amazonaws.com
 viewex.co.uk
 viewfile.org
 viewfree.info
@@ -110833,7 +110644,6 @@ vmindustriesrajkot.com
 vmkbcb.info
 vmkjxdahnfywwi.bid
 vml-127.com
-vml1.s3.amazonaws.com
 vmmmofwusn.com
 vmmphpamtigpbi.com
 vmmpxl.com
@@ -113046,7 +112856,6 @@ whiskyqueue.com
 whisla.com
 whispa.com
 whistleout.com.au
-whistleout.s3.amazonaws.com
 whistorica.info
 white-slut.com
 white.sexer.com
@@ -113313,7 +113122,6 @@ win7phone.net
 winadiscount.com
 winads.cn
 winaffiliates.com
-winalert.s3.amazonaws.com
 winaliteecuador.com
 winanewcar.com
 winaproduct.com
@@ -113353,7 +113161,6 @@ windows32.co.in
 windows803.top
 windows8activator.com
 windowscasino.com
-windowserror3.s3.amazonaws.com
 windowshopworld.com
 windowshort.net
 windowspasswordrecoverytool.com
@@ -113898,7 +113705,6 @@ wozltvfxtntaqk.com
 wp-club.net
 wp-monero-miner.de
 wp-stat.s3.amazonasw.com
-wp-stat.s3.amazonaws.com
 wp-stats.com
 wp.gl
 wp.leshu.com
@@ -121886,7 +121692,6 @@ ya772.com
 ya7easob.top
 ya88s1yk.com
 yaaraab.000webhostapp.com
-yab-adimages.s3.amazonaws.com
 yabidos.com
 yaboshadi.com
 yabuka.com
@@ -122060,7 +121865,6 @@ ybveoy.est.northerndishedends.com
 ybwackoidmcat.com
 ybx.io
 ybzdcwssn.com
-yc-ads.s3.amazonaws.com
 yc3838.com
 yc558.com
 yc6670.com
@@ -123997,7 +123801,6 @@ znakomstva-piter78.ru
 znakomstvaonlain.ru
 znaniyapolza.ru
 znapapp.ae
-znaptag-us.s3.amazonaws.com
 znaptag.com
 znaturaloriginal.com
 zndaowjdnf.stream
@@ -124361,16 +124164,6 @@ zxciuniqhweizsds.com
 zxcrsyhkndzoc.com
 zxcs.ggwan.com
 zxcs.linghit.com
-zxcvbn01.s3.amazonaws.com
-zxcvbn02.s3.amazonaws.com
-zxcvbn03.s3.amazonaws.com
-zxcvbn04.s3.amazonaws.com
-zxcvbn05.s3.amazonaws.com
-zxcvbn06.s3.amazonaws.com
-zxcvbn07.s3.amazonaws.com
-zxcvbn08.s3.amazonaws.com
-zxcvbn09.s3.amazonaws.com
-zxcvbn10.s3.amazonaws.com
 zxdszx.cn
 zxh.bzshzx.com
 zxhymh.com
